@@ -1,0 +1,9 @@
+C:/Users/orhan/STM32CubeIDE/workspace_1.13.1/chip_headers/CMSIS/Include/core_cm4.h:1688:22:__NVIC_EnableIRQ	2
+../Src/dma_adc.c:36:6:GPIO_PORTA_INIT	1
+../Src/dma_adc.c:42:6:GPIO_PORTB_INIT	1
+../Src/dma_adc.c:48:6:GPIO_PORTC_INIT	1
+../Src/dma_adc.c:54:6:GPIO_PORTD_INIT	1
+../Src/dma_adc.c:60:6:ADC_GPIO_INIT	5
+../Src/dma_adc.c:85:6:ADC_INIT	1
+../Src/dma_adc.c:102:6:DMA_ADC_INIT	2
+../Src/dma_adc.c:152:6:DMA2_Stream0_IRQHandler	3

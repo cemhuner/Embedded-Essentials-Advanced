@@ -1,0 +1,2 @@
+../Src/adc.c:16:6:ADC1_Init	1
+../Src/adc.c:39:6:ADC1_ReadChannels	3

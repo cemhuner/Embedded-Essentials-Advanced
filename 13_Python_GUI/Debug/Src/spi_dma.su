@@ -1,0 +1,6 @@
+C:/Users/orhan/STM32CubeIDE/workspace_1.13.1/chip_headers/CMSIS/Include/core_cm4.h:1688:22:__NVIC_EnableIRQ	16	static
+../Src/spi_dma.c:34:6:spi1_dma_init	4	static
+../Src/spi_dma.c:79:6:dma2_stream3_spi_tx_init	8	static
+../Src/spi_dma.c:107:6:dma2_stream2_spi_rx_init	8	static
+../Src/spi_dma.c:135:6:dma2_stream2_spi_receive	16	static
+../Src/spi_dma.c:149:6:dma2_stream3_spi_transfer	16	static

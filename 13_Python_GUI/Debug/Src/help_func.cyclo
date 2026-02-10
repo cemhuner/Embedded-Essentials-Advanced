@@ -1,0 +1,8 @@
+../Src/help_func.c:4:6:str_empty	2
+../Src/help_func.c:14:6:str_empty_len	2
+../Src/help_func.c:27:5:len_str	2
+../Src/help_func.c:38:5:find_str	5
+../Src/help_func.c:79:5:find_strL	2
+../Src/help_func.c:96:6:Concatstr	3
+../Src/help_func.c:113:6:int2char	5
+../Src/help_func.c:154:5:char2int	5

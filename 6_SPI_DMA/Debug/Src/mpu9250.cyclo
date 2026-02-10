@@ -1,0 +1,11 @@
+../Src/mpu9250.c:18:6:mpu9250_ncs	1
+../Src/mpu9250.c:26:6:mpu9250_ncs_set	1
+../Src/mpu9250.c:31:6:mpu9250_ncs_reset	1
+../Src/mpu9250.c:37:6:mpu9250_accel_config	7
+../Src/mpu9250.c:82:6:mpu9250_accel_update	2
+../Src/mpu9250.c:94:7:mpu9250_accel_get	2
+../Src/mpu9250.c:109:7:mpu9250_get_x	1
+../Src/mpu9250.c:114:7:mpu9250_get_y	1
+../Src/mpu9250.c:119:7:mpu9250_get_z	1
+../Src/mpu9250.c:124:6:DMA2_Stream3_IRQHandler	3
+../Src/mpu9250.c:140:6:DMA2_Stream2_IRQHandler	3

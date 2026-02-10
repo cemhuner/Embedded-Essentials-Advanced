@@ -1,0 +1,2 @@
+../Src/comm_drive.c:12:6:MSG_SendADCData	10
+../Src/comm_drive.c:75:6:MSG_SendSensorData	10

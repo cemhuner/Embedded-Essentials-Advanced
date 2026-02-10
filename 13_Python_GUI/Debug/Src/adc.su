@@ -1,0 +1,2 @@
+../Src/adc.c:16:6:ADC1_Init	4	static
+../Src/adc.c:39:6:ADC1_ReadChannels	4	static

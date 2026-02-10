@@ -1,0 +1,2 @@
+C:/Users/orhan/STM32CubeIDE/workspace_1.13.1/chip_headers/CMSIS/Include/core_cm4.h:1688:22:__NVIC_EnableIRQ	2
+../Src/dma_adc.c:30:6:dma_tim_adc_init	2

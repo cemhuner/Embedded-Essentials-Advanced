@@ -1,0 +1,6 @@
+../Src/uart.c:21:5:_write	32	static
+../Src/uart.c:29:6:uart_tx_rx_init	8	static
+../Src/uart.c:60:6:UART_TX	16	static
+../Src/uart.c:66:6:UART_RX	4	static
+../Src/uart.c:72:13:set_brr	24	static
+../Src/uart.c:78:17:compute_brr	16	static
